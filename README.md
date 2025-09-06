@@ -67,9 +67,8 @@ ai-fitness-application/
 ├── eureka-server/
 ├── gateway/
 ├── user-service/
-├── fitness-service/
+├── activity-service/
 ├── recommendation-service/
-├── messaging-service/
 ├── frontend/
 └── README.md
 ```
